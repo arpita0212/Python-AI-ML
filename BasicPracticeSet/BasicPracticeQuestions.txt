@@ -1,0 +1,41 @@
+# Take a moment to try these exercises on your own:
+
+# 1. A product on Amazon costs ₹500. A customer buys 2 items. Calculate total bill.
+
+# 2. A Flipkart customer gets ₹50 discount on a ₹300 product. Find final price.
+
+# 3. A Reliance Smart store sells 10 items per day at ₹100 each. Find total daily revenue.
+
+# 4. A customer buys 3 shirts (₹700 each) from Myntra. Calculate total cost.
+
+# 5. You deposit ₹1000 in an HDFC Bank account and then ₹500 more. Find total balance.
+
+# 6. You withdraw ₹300 from ₹1500 in an SBI account. Find remaining balance.
+
+# 7. A user earns ₹200 interest in ICICI Bank. Add it to ₹5000 and print total amount.
+
+# 8. A Delhivery truck carries 50 packages per trip. In 3 trips, how many packages?
+
+# 9. Swiggy delivery charge is ₹20 per km. For 5 km, calculate total delivery cost.
+
+# 10. An Amazon warehouse has 200 items and ships 75. How many are left?
+
+# 11. A Google server processes 100 requests per minute. How many in 5 minutes?
+
+# 12. A file on Dropbox is 50 MB. You download 3 files. Total data downloaded?
+
+# 13. A Tata factory produces 500 units per day. Find production for 4 days.
+
+# 14. Cost to make 1 unit in a Mahindra plant is ₹20. For 10 units, find total production cost.
+
+# 15. You collected 120 data points yesterday and 80 today using Microsoft Excel. Find total.
+
+# 16. A SurveyMonkey survey has 50 responses. Add 25 more responses. Find total.
+
+# 17. An Apollo Clinic sees 30 patients in morning and 20 in evening. Total patients?
+
+# 18. A BYJU'S course has 40 students. 10 more join. Find total students.
+
+# 19. A student on Coursera scores 60 in one test and 30 in another. Find total marks.
+
+# 20. A freelancer on Upwork earns ₹2000 from one project and ₹1500 from another. Find total earnings.
